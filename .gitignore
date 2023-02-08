@@ -1,2 +1,3 @@
 .exercism
 .venv
+__pycache__
